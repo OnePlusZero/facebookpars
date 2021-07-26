@@ -1,0 +1,123 @@
+1627246404577	geckodriver	INFO	Listening on 127.0.0.1:59361
+1627246404582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjnSYn"
+1627246405508	Marionette	INFO	Marionette enabled
+
+(firefox:14775): Gtk-WARNING **: 23:53:25.578: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:14775): Gtk-WARNING **: 23:53:25.579: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:14775): Gtk-WARNING **: 23:53:25.579: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKjnSYn/search.json.mozlz4", (void 0)))
+1627246408088	Marionette	INFO	Listening on port 46275
+1627246408122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.somplo.com/prod/test/251119/new-tag.min.js?cb=8, line 282: unreachable code after return statement
+JavaScript warning: https://cdn.somplo.com/prod/test/251119/new-tag.min.js?cb=8, line 282: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: https://cdn.adhigh.net/media/html/2b13b5fd/jul21_Velo_XstrongGirl_may21_240x400/body.js, line 1: ReferenceError: admixAPI is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627247424984	geckodriver	INFO	Listening on 127.0.0.1:56625
+1627247424988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejNxt66"
+1627247425887	Marionette	INFO	Marionette enabled
+
+(firefox:27192): Gtk-WARNING **: 00:10:25.930: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:27192): Gtk-WARNING **: 00:10:25.930: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:27192): Gtk-WARNING **: 00:10:25.930: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejNxt66/search.json.mozlz4", (void 0)))
+1627247428339	Marionette	INFO	Listening on port 45963
+1627247428415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627247669384	geckodriver	INFO	Listening on 127.0.0.1:53907
+1627247669388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9YdUP"
+1627247670272	Marionette	INFO	Marionette enabled
+
+(firefox:29522): Gtk-WARNING **: 00:14:30.314: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:29522): Gtk-WARNING **: 00:14:30.315: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:29522): Gtk-WARNING **: 00:14:30.315: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled9YdUP/search.json.mozlz4", (void 0)))
+1627247672755	Marionette	INFO	Listening on port 39237
+1627247672807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627247733458	geckodriver	INFO	Listening on 127.0.0.1:52195
+1627247733464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOIYTZy"
+1627247734394	Marionette	INFO	Marionette enabled
+
+(firefox:30674): Gtk-WARNING **: 00:15:34.439: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:30674): Gtk-WARNING **: 00:15:34.440: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:30674): Gtk-WARNING **: 00:15:34.440: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOIYTZy/search.json.mozlz4", (void 0)))
+1627247737171	Marionette	INFO	Listening on port 43827
+1627247737289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627247753586	geckodriver	INFO	Listening on 127.0.0.1:41575
+1627247753590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletciO0r"
+1627247754422	Marionette	INFO	Marionette enabled
+
+(firefox:31209): Gtk-WARNING **: 00:15:54.466: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:31209): Gtk-WARNING **: 00:15:54.466: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:31209): Gtk-WARNING **: 00:15:54.466: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletciO0r/search.json.mozlz4", (void 0)))
+1627247756682	Marionette	INFO	Listening on port 37245
+1627247756715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627247851444	geckodriver	INFO	Listening on 127.0.0.1:52903
+1627247851448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FDMEu"
+1627247852315	Marionette	INFO	Marionette enabled
+
+(firefox:32119): Gtk-WARNING **: 00:17:32.362: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:32119): Gtk-WARNING **: 00:17:32.362: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:32119): Gtk-WARNING **: 00:17:32.362: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7FDMEu/search.json.mozlz4", (void 0)))
+1627247854855	Marionette	INFO	Listening on port 38189
+1627247854966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627247881914	geckodriver	INFO	Listening on 127.0.0.1:39147
+1627247881919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecjgWN6"
+1627247882819	Marionette	INFO	Marionette enabled
+
+(firefox:32721): Gtk-WARNING **: 00:18:02.857: Theme directory scalable/actions of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:32721): Gtk-WARNING **: 00:18:02.857: Theme directory scalable/actions/small/16x16 of theme buuf-icons-for-plasma has no size field
+
+
+(firefox:32721): Gtk-WARNING **: 00:18:02.857: Theme directory scalable/actions/small/22x22 of theme buuf-icons-for-plasma has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecjgWN6/search.json.mozlz4", (void 0)))
+1627247885033	Marionette	INFO	Listening on port 35971
+1627247885163	Marionette	WARN	TLS certificate errors will be ignored for this session
